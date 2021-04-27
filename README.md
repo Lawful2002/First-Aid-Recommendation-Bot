@@ -36,13 +36,15 @@ Our	program	uses	a	number	of	python	modules	to	work	properly:
 ## :white_square_button: Installation 
 Install the following package by typing the following in Terminal
 
-- `import speech_recognition as sr`
-- `import numpy`
-- `import tflearn`
-- `import tensorflow`
-- `import random`
-- `import json`
-- `import pickle`
+- `pip install SpeechRecognition`
+- `pip install numpy`
+- `pip install tflearn`
+- `pip install tensorflow`
+- `pip install random`
+- `pip install json`
+- `pip install pickle`
+- `pip install gtts`
+- `pip install playsound`
 
 To make sure it is installed correctly, open IDLE and execute :
 
