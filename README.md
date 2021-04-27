@@ -43,6 +43,8 @@ Install the following package by typing the following in Terminal
 - `import random`
 - `import json`
 - `import pickle`
+- `import gtts`
+- `from playsound import playsound`
 
 To make sure it is installed correctly, open IDLE and execute :
 
@@ -53,6 +55,8 @@ To make sure it is installed correctly, open IDLE and execute :
 - `import random`
 - `import json`
 - `import pickle`
+- `import gtts`
+- `from playsound import playsound`
 
 If no errors appeared then the installation is done correctly.
 Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
