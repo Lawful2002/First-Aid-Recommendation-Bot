@@ -32,6 +32,7 @@ Our	program	uses	a	number	of	python	modules	to	work	properly:
 3. tflearn
 4. tensorflow
 5. speech_recognition
+6. flask
 
 ## :white_square_button: Installation 
 Install the following package by typing the following in Terminal
@@ -45,6 +46,7 @@ Install the following package by typing the following in Terminal
 - `pip install pickle`
 - `pip install gtts`
 - `pip install playsound`
+- `pip install flask`
 
 To make sure it is installed correctly, open IDLE and execute :
 
@@ -57,6 +59,7 @@ To make sure it is installed correctly, open IDLE and execute :
 - `import pickle`
 - `import gtts`
 - `from playsound import playsound`
+- `import flask`
 
 If no errors appeared then the installation is done correctly.
 Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
