@@ -68,4 +68,4 @@ Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 ## :suspect: Project Members
 
 - [Ayush Anand](https://github.com/Ayushsunny)
-- [Harshvardhan Singh](https://github.com/lawful02)
+- [Harshvardhan Singh](https://github.com/lawful2002)
